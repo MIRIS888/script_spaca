@@ -1,0 +1,51 @@
+
+
+Nastavení sítě - přidat síť jako privátní, upřesnit nastavení - pokročilé nastavení sdílení - povolit sdílení souborů a tiskáren pro privátní sítě (někdy třeba toto zopakovat po restartu znovu)
+
+tightvnc.com - instalovat 64bit verzi - Custom instalace - pouze server, heslo pro vzdálený přístup (z dokumentace)
+
+po instalaci rozkliknout ikonu v tray - odškrtnout web access 5800, odškrtnout Hide Desktop, odškrtnout Show Icon in the notif.
+
+Aktualizovat ovladače, firmware a bios z aplikace dodané výrobcem (opakovat do té doby než bude zcela aktuální)
+
+Windows Update - Upřesnit možnosti - zaškrtnout Dostávat aktualizace pro další produkty Microsoft
+
+Windows Update - Vyhledat aktualizace - nainstalovat vše, po vyhledání zkontrolovat i volitelné aktualizace v nabídce Upřesnit možnosti
+
+Windows Update - Upřesnit možnosti - vybrat k instalaci volitelné aktualizace a ovladače
+
+Nastavení - Aplikace - Nainstalované aplikace - odinstalovat všechen balast a nepotřebný SW (např. cizí antiviry, hry, zbytečný SW výrobce notebooku např. HP OneAgent atd.)
+
+Nastavení - Systém - O systému - Upřesnit nastavení systému - Ochrana systému - zapnout pro disk C a konfigurovat alespoň 5GB
+
+Nastavení - Systém - O systému - Upřesnit nastavení systému - Vzdálený přístup - Umožnit + zaškrtnout volbu s ověřením
+
+Ovládací panely - možnosti napájení - vypnout uspávání při napájení ze sítě
+
+Instalace Kerio Control VPN klienta
+
+Nastavení - Přizpůsobení - Motivy - Nastavení ikon na ploše - zaškrtnout vše
+
+Nastavení - Přizpůsobení - odškrtnout Hledat, Zobrazení úkolů, Widgety, Chat
+
+Nastavení - Přizpůsobení - Chování hl. panelu - Vlevo
+
+Ovládací panely - Možnosti průzkumníka souborů - Zobrazení - odškrtnout Skrýt příponu známých typů
+
+Nastavení sítě - upřesnit nastavení - pokročilé nastavení sdílení - povolit sdílení souborů a tiskáren - povolit sdílení souborů a tiskáren a zjišťování sítě pro doménové sítě
+
+Microsoft Store - aktualizovat všechny aplikace
+
+Terminal - jako správce - winget upgrade + winget upgrade --all
+
+Instalovat Eset Protect agenta - konzole:  https://esmc.nemecpolak.cz:8843/era/webconsole/   stáhnout skript a instalovat na stanici přes pr. tlačítko jako správce
+
+Po instalaci agenta nainstalovat Eset AV z konzole
+
+Instalace 7-zip
+
+Instalace Adobe reader + nastavit jako výchozí pro PDF
+
+Instalovat Kerio Offline Konektor z https://mail.nemecpolak.cz  Integrace
+
+Instalace Total Commander - pro všechny uživatele, nepřidávat ikonu na plochu
