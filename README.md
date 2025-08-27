@@ -16,7 +16,6 @@ Automatizovaný PowerShell script pro nastavení Windows podle firemních standa
 
 ### Manuální instalace (script zobrazí odkazy):
 - 🔧 **TightVNC** Server (64-bit, custom instalace)
-- 🛡️ **ESET Protect** agent + antivirus
 - 📦 **7-Zip**
 - 📄 **Adobe Reader** (nastaví jako výchozí pro PDF)
 - 📧 **Kerio Offline Connector**
@@ -57,7 +56,6 @@ Script obsahuje poznámky pro software, který je třeba nainstalovat ručně:
   - 64-bit verze, pouze server
   - Nastavit heslo pro vzdálený přístup
   - Vypnout web access port 5800
-- **ESET Protect** - agent z firemní konzole
 - **7-Zip** - archivační nástroj
 - **Adobe Reader** - nastavit jako výchozí pro PDF
 - **Kerio Offline Connector** - emailový klient

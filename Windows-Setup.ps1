@@ -102,8 +102,6 @@ if (Get-Command winget -ErrorAction SilentlyContinue) {
 
 # 14. Software installation notes
 Write-Host "`nManual installation required for:" -ForegroundColor Cyan
-Write-Host "- ESET Protect agent from: https://esmc.nemecpolak.cz:8843/era/webconsole/" -ForegroundColor Cyan
-Write-Host "- ESET Antivirus (after agent installation)" -ForegroundColor Cyan
 Write-Host "- 7-Zip" -ForegroundColor Cyan
 Write-Host "- Adobe Reader (set as default for PDF)" -ForegroundColor Cyan
 Write-Host "- Kerio Offline Connector from: https://mail.nemecpolak.cz" -ForegroundColor Cyan
